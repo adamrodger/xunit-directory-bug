@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.bug", "xunit.bug\xunit.bug.csproj", "{13538016-B57C-4452-B35B-48EE1DE2ECAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.bug.tests", "xunit.bug.tests\xunit.bug.tests.csproj", "{B00CC8C8-8068-46D8-BD8C-8F9E27699E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13538016-B57C-4452-B35B-48EE1DE2ECAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13538016-B57C-4452-B35B-48EE1DE2ECAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13538016-B57C-4452-B35B-48EE1DE2ECAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13538016-B57C-4452-B35B-48EE1DE2ECAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00CC8C8-8068-46D8-BD8C-8F9E27699E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00CC8C8-8068-46D8-BD8C-8F9E27699E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00CC8C8-8068-46D8-BD8C-8F9E27699E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00CC8C8-8068-46D8-BD8C-8F9E27699E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D807EE-AB25-4B85-8D4E-DF192C89C21D}
+	EndGlobalSection
+EndGlobal
